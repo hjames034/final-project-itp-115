@@ -1,3 +1,4 @@
+REQUIREMENTS: Install python, pandas module
 Urban Traffic Design Simulator:
 PHASE I
 
